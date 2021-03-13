@@ -1,0 +1,5 @@
+Phi Huynh;1/1/1999;Male;Thailand;(+084)-0983-089-241;Q2;College;3000;
+Yen Nhi;2/22/2000;Female;Laos;(+084)-0952-145-314;Q12;Software Engineer;3000;
+Huynh Phi;2/22/2000;Male;Campuchia;(+084)-0951-232-145;Q5;Software Engineer;6000;
+Cam Thu;2/22/2000;Female;Russia;(+084)-0984-542-084;Q7;Master of Business Administration;6000;
+Chau Phi;2/25/2000;Male;Rusia;(+084)-0941-234-875;Q9;Software Engineer;3000;

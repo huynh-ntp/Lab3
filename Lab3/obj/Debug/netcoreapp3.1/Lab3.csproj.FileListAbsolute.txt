@@ -1,0 +1,33 @@
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\EmployeeForm.EmployeeUI.resources
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\EmployeeForm.SearchResultui.resources
+C:\Users\ACER\OneDrive\Desktop\Semester 5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.Form1.resources
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\EmployeeForm.EmployeeUI.resources
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\EmployeeForm.SearchResultui.resources
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+C:\Users\ACER\OneDrive\Desktop\Semester5\C#\Code\Lab3\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
